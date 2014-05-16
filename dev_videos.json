@@ -3,8 +3,8 @@
 		    { "subtitle" : "Sample",
               "sources" : [ "http://av.vimeo.com/13479/924/88601408.mp4?token2=1400285167_9e16a966fd123d29a73b3296bcf219e0&aksessionid=b255182933a33546" ],
               "thumb" : "",
-	      "image-480x270" : "http://i.vimeocdn.com/video/264766228_640.jpg",
-	      "image-780x1200" : "http://i.vimeocdn.com/video/264766228_1280.jpg",
+	      "image-480x270" : "video/264766228_640.jpg",
+	      "image-780x1200" : "video/264766228_1280.jpg",
               "title" : "Title",
               "studio" : "Studio"
             }
