@@ -15,5 +15,13 @@
 	      "image-780x1200" : "video/272421916_1280.jpg",
               "title" : "Context is Magic von Ronan \"zero\" Schwarz",
               "studio" : "Studio"
+            },
+	    { "subtitle" : "Sample",
+              "sources" : [ "http://pdl.vimeocdn.com/41129/479/246867514.mp4?token2=1400288628_ecf527c937467814d5ec432d0af1aa12&aksessionid=42e809442cac7892" ],
+              "thumb" : "",
+	      "image-480x270" : "video\/472605515_640.jpg",
+	      "image-780x1200" : "video\/472605515_1280.jpg",
+              "title" : "Context is Magic von Ronan \"zero\" Schwarz",
+              "studio" : "Studio"
             }
     ]}]}
