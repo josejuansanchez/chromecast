@@ -50,5 +50,14 @@
 	"image-780x1200" : "http://i.vimeocdn.com/video/465515539_1280.jpg",
 	"title" : "Mecanismos de persistencia en Android",
 	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "Primeros pasos con Raspberry Pi: Introducción",
+	"sources" : [ "http://pdl.vimeocdn.com/76440/796/242805786.mp4?token2=1400289677_afd8387fb6a331a614a5d68ef5f74752&aksessionid=b407d2c001e45be5" ],
+	"thumb" : "",
+	"image-480x270" : "http://i.vimeocdn.com/video/470896107_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/470896107_1280.jpg",
+	"title" : "Primeros pasos con Raspberry Pi: Introducción",
+	"studio" : "decharlas.com"
 	}	
     ]}]}
