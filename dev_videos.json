@@ -1,27 +1,48 @@
 { "categories" : [ { "name" : "Android",
         "videos" : [ 
-	    { "subtitle" : "Sample",
-              "sources" : [ "http://av.vimeo.com/13479/924/88601408.mp4?token2=1400285167_9e16a966fd123d29a73b3296bcf219e0&aksessionid=b255182933a33546" ],
-              "thumb" : "",
-	      "image-480x270" : "video/264766228_640.jpg",
-	      "image-780x1200" : "video/264766228_1280.jpg",
-              "title" : "Title",
-              "studio" : "Studio"
-            },
-	    { "subtitle" : "Sample",
-              "sources" : [ "http://av.vimeo.com/81513/513/91212453.mp4?token2=1400285412_f0f51fa3773ebe21a86b3e028772f382&aksessionid=b09271c0e2a622b7&ns=4" ],
-              "thumb" : "",
-	      "image-480x270" : "video/272421916_640.jpg",
-	      "image-780x1200" : "video/272421916_1280.jpg",
-              "title" : "Context is Magic von Ronan \"zero\" Schwarz",
-              "studio" : "Studio"
-            },
-	    { "subtitle" : "Sample",
-              "sources" : [ "http://pdl.vimeocdn.com/41129/479/246867514.mp4?token2=1400288628_ecf527c937467814d5ec432d0af1aa12&aksessionid=42e809442cac7892" ],
-              "thumb" : "",
-	      "image-480x270" : "video\/472605515_640.jpg",
-	      "image-780x1200" : "video\/472605515_1280.jpg",
-              "title" : "Context is Magic von Ronan \"zero\" Schwarz",
-              "studio" : "Studio"
-            }
+	{ 
+	"subtitle" : "Android Legacy Code",
+	"sources" : [ "http://pdl.vimeocdn.com/80157/535/230062638.mp4?token2=1400289645_69f9385411c32ddc3b90ad8eb5f9a1e5&aksessionid=0cadbc9d527975a0" ],
+	"thumb" : "",
+	"image-480x270" : "http://i.vimeocdn.com/video/465512721_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/465512721_1280.jpg",
+	"title" : "Android Legacy Code",
+	"studio" : "decharlas.com"
+	},
+	{ 
+	"subtitle" : "Software Design Patterns on Android",
+	"sources" : [ "http://pdl.vimeocdn.com/13388/342/230063662.mp4?token2=1400291141_fc7343b1b6e8455cdf9a8dbe6f800e97&aksessionid=d18c224af2efcf46" ],
+	"thumb" : "",
+	"image-480x270" : "http://i.vimeocdn.com/video/465515616_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/465515616_1280.jpg",
+	"title" : "Software Design Patterns on Android",
+	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "Mecanismos de persistencia en Android",
+	"sources" : [ "http://pdl.vimeocdn.com/94839/627/230064012.mp4?token2=1400291779_1fdcd19dbe71be517177783ea68976c2&aksessionid=7bef6618d25dc5f3" ],
+	"thumb" : "",
+	"image-480x270" : "http://i.vimeocdn.com/video/465515539_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/465515539_1280.jpg",
+	"title" : "Mecanismos de persistencia en Android",
+	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "Primeros pasos con Raspberry Pi: Introducción",
+	"sources" : [ "http://pdl.vimeocdn.com/76440/796/242805786.mp4?token2=1400289677_afd8387fb6a331a614a5d68ef5f74752&aksessionid=b407d2c001e45be5" ],
+	"thumb" : "",
+	"image-480x270" : "http://i.vimeocdn.com/video/470896107_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/470896107_1280.jpg",
+	"title" : "Primeros pasos con Raspberry Pi: Introducción",
+	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "Primeros pasos con Raspberry Pi: Integración con XBMC y Couch Potato",
+	"sources" : [ "http://pdl.vimeocdn.com/16662/189/242805949.mp4?token2=1400289971_958bb6a2ff2fbb5a85106d5491faad14&aksessionid=84a4bcd8fe1796c3" ],
+	"thumb" : "",
+	"image-480x270" : "http://i.vimeocdn.com/video/470896220_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/470896220_1280.jpg",
+	"title" : "Primeros pasos con Raspberry Pi: Integración con XBMC y Couch Potato",
+	"studio" : "decharlas.com"
+	}	
     ]}]}
