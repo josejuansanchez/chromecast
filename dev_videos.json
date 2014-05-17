@@ -59,5 +59,14 @@
 	"image-780x1200" : "http://i.vimeocdn.com/video/470896107_1280.jpg",
 	"title" : "Primeros pasos con Raspberry Pi: Introducción",
 	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "Primeros pasos con Raspberry Pi: Integración con XBMC y Couch Potato",
+	"sources" : [ "http://pdl.vimeocdn.com/16662/189/242805949.mp4?token2=1400289971_958bb6a2ff2fbb5a85106d5491faad14&aksessionid=84a4bcd8fe1796c3" ],
+	"thumb" : "",
+	"image-480x270" : "http://i.vimeocdn.com/video/470896220_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/470896220_1280.jpg",
+	"title" : "Primeros pasos con Raspberry Pi: Integración con XBMC y Couch Potato",
+	"studio" : "decharlas.com"
 	}	
     ]}]}
