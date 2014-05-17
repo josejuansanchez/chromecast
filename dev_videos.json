@@ -41,5 +41,14 @@
 	"image-780x1200" : "http://i.vimeocdn.com/video/465515616_1280.jpg",
 	"title" : "Software Design Patterns on Android",
 	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "Mecanismos de persistencia en Android",
+	"sources" : [ "http://pdl.vimeocdn.com/94839/627/230064012.mp4?token2=1400291779_1fdcd19dbe71be517177783ea68976c2&aksessionid=7bef6618d25dc5f3" ],
+	"thumb" : "",
+	"image-480x270" : "http://i.vimeocdn.com/video/465515539_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/465515539_1280.jpg",
+	"title" : "Mecanismos de persistencia en Android",
+	"studio" : "decharlas.com"
 	}	
     ]}]}
