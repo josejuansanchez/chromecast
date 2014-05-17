@@ -32,5 +32,14 @@
 	"image-780x1200" : "http://i.vimeocdn.com/video/465512721_1280.jpg",
 	"title" : "Android Legacy Code",
 	"studio" : "decharlas.com"
-	}            
+	},
+	{ 
+	"subtitle" : "Software Design Patterns on Android",
+	"sources" : [ "http://pdl.vimeocdn.com/13388/342/230063662.mp4?token2=1400291141_fc7343b1b6e8455cdf9a8dbe6f800e97&aksessionid=d18c224af2efcf46" ],
+	"thumb" : "",
+	"image-480x270" : "http://i.vimeocdn.com/video/465515616_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/465515616_1280.jpg",
+	"title" : "Software Design Patterns on Android",
+	"studio" : "decharlas.com"
+	}	
     ]}]}
