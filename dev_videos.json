@@ -1,29 +1,5 @@
 { "categories" : [ { "name" : "Android",
         "videos" : [ 
-	    { "subtitle" : "Sample",
-              "sources" : [ "http://av.vimeo.com/13479/924/88601408.mp4?token2=1400285167_9e16a966fd123d29a73b3296bcf219e0&aksessionid=b255182933a33546" ],
-              "thumb" : "",
-	      "image-480x270" : "video/264766228_640.jpg",
-	      "image-780x1200" : "video/264766228_1280.jpg",
-              "title" : "Title",
-              "studio" : "Studio"
-            },
-	    { "subtitle" : "Sample",
-              "sources" : [ "http://av.vimeo.com/81513/513/91212453.mp4?token2=1400285412_f0f51fa3773ebe21a86b3e028772f382&aksessionid=b09271c0e2a622b7&ns=4" ],
-              "thumb" : "",
-	      "image-480x270" : "video/272421916_640.jpg",
-	      "image-780x1200" : "video/272421916_1280.jpg",
-              "title" : "Context is Magic von Ronan \"zero\" Schwarz",
-              "studio" : "Studio"
-            },
-	    { "subtitle" : "Sample",
-              "sources" : [ "http://pdl.vimeocdn.com/41129/479/246867514.mp4?token2=1400288628_ecf527c937467814d5ec432d0af1aa12&aksessionid=42e809442cac7892" ],
-              "thumb" : "",
-	      "image-480x270" : "video\/472605515_640.jpg",
-	      "image-780x1200" : "video\/472605515_1280.jpg",
-              "title" : "Context is Magic von Ronan \"zero\" Schwarz",
-              "studio" : "Studio"
-            },
 	{ 
 	"subtitle" : "Android Legacy Code",
 	"sources" : [ "http://pdl.vimeocdn.com/80157/535/230062638.mp4?token2=1400289645_69f9385411c32ddc3b90ad8eb5f9a1e5&aksessionid=0cadbc9d527975a0" ],
