@@ -10,11 +10,7 @@
 	"studio" : "decharlas.com"
 	},
 	{
-	"subtitle" : "La construcción de software extensible, estructurado y desacoplado es uno de los mayores retos que un desarrollador debe afrontar. Día a día nos enfrentamos con problemas cuya base es muy similar y que intentamos modelar para obtener la solución. Aplicando patrones de diseño software podremos construir una solución extensible, reutilizable y bien estructurada a todos esos problemas. A lo largo de la charla se comentarán alguno de los patrones más interesantes en el desarrollo de aplicaciones.<br />
-	<br />
-	Ponente:<br />
-	<br />
-	Pedro Gómez es un joven desarrollador de aplicaciones para móviles con un gran afán por la investigación y las nuevas tecnologías. Durante su vida como desarrollador se ha enfrentado a proyectos de muy diferentes tipos, desde aplicaciones de realidad aumentada hasta clientes de mensajería, servicios de renderizado de modelos en la nube o redes sociales. Actualmente trabaja en Tuenti como Mobile Software Engineer en el equipo de Android, aunque día a día intenta expandir su experiencia a otros campos.",
+	"subtitle" : "La construcción de software extensible, estructurado y desacoplado es uno de los mayores retos que un desarrollador debe afrontar. Día a día nos enfrentamos con problemas cuya base es muy similar y que intentamos modelar para obtener la solución. Aplicando patrones de diseño software podremos construir una solución extensible, reutilizable y bien estructurada a todos esos problemas. A lo largo de la charla se comentarán alguno de los patrones más interesantes en el desarrollo de aplicaciones.<br /><br />Ponente:<br /><br />Pedro Gómez es un joven desarrollador de aplicaciones para móviles con un gran afán por la investigación y las nuevas tecnologías. Durante su vida como desarrollador se ha enfrentado a proyectos de muy diferentes tipos, desde aplicaciones de realidad aumentada hasta clientes de mensajería, servicios de renderizado de modelos en la nube o redes sociales. Actualmente trabaja en Tuenti como Mobile Software Engineer en el equipo de Android, aunque día a día intenta expandir su experiencia a otros campos.",
 	"sources" : [ "87450999" ],
 	"thumb" : "http://i.vimeocdn.com/video/465515616_100x75.jpg",
 	"image-480x270" : "http://i.vimeocdn.com/video/465515616_640.jpg",
@@ -23,9 +19,9 @@
 	"studio" : "decharlas.com"
 	},
 	{
-	"subtitle" : "Mecanismos de persistencia en Android",
+	"subtitle" : "La persistencia es un detalle imprescindible en la mayoría de aplicaciones. En esta charla se dará una visión de distintos mecanismos para persistir los datos en aplicaciones Android. Se hará especial énfasis en el uso de patrones de diseño para implementar la persistencia de manera que se incremente la flexibilidad y mantenibilidad de nuestras aplicaciones. La charla estará acompañada de ejemplos prácticos de código para ilustrar los principios descritos.<br /><br />Ponente:<br /><br />Javier Muñoz es actualmente ingeniero de software en Grupo Gimeno donde participa, entre otros, en los proyectos de desarrollo de aplicaciones móviles con Android para las distintas empresas del grupo. Después de realizar el doctorado en la Universidad Politécnica de Valencia y trabajar en empresas de la zona, llevo a cabo su actividad profesional a través de su propia empresa dedicada al de desarrollo de aplicaciones para móviles hasta que se integró en la plantilla del Grupo Gimeno. Actualmente también es profesor en el Máster sobre Tecnologías Software Avanzadas para Dispositivos Móviles de la Universidad San Jorge de Zaragoza.",
 	"sources" : [ "87451111" ],
-	"thumb" : "",
+	"thumb" : "http://i.vimeocdn.com/video/465515539_100x75.jpg",
 	"image-480x270" : "http://i.vimeocdn.com/video/465515539_640.jpg",
 	"image-780x1200" : "http://i.vimeocdn.com/video/465515539_1280.jpg",
 	"title" : "Mecanismos de persistencia en Android",
