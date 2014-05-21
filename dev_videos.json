@@ -44,5 +44,23 @@
 	"image-780x1200" : "http://i.vimeocdn.com/video/421730204_1280.jpg",
 	"title" : "Repositorios de control de versiones distribuidos: El futuro del código fuente",
 	"studio" : "decharlas.com"
-	}
+	},
+	{
+	"subtitle" : "Internet esta transformándose constantemente, durante los últimos años hemos sido testigos de una evolución hacia lo social, transaccional y móvil, ¿pero cual es el siguiente reto? la respuesta esta en los objetos, cosas cotidianas que paulatinamente están conectándose a la red.<br /><br />A día de hoy existen mas objetos conectados que personas en el planeta y para el año 2020 existirán mas de 50.000 millones de ellos. ¿Frigoríficos inteligentes que te avisan de la caducidad de alimentos? ¿Cepillos de dientes que detectan caries? ¿Ciudades inteligentes, sostenibles? La aplicación del concepto es ilimitada.<br /><br />Parece ciencia ficción, pero hoy ya existen personas, empresas e instituciones que están aplicando con éxito estos paradigmas, en parte gracias al abaratamiento de sensores y al hardware libre como Arduino o Raspberry Pi. Hoy día cualquier persona interesada puede adentrarse en el apasionante mundo de el "Internet de las Cosas"<br /><br />Ponente<br /><br />Samuel de Ancos es un apasionado del desarrollo y la tecnología, es desarrollador de software desde hace varios años. Empezó en el ámbito del desarrollo de aplicaciones web con tecnologías LAMP y desde hace mas de un par de años se dedica al mundo del "Internet Of things" como analista y desarrollador core en la plataforma Carriots. Es un convencido del software libre y le gusta involucrarme en la comunidades de desarrolladores.",
+	"sources" : [ "91503906" ],
+	"thumb" : "http://i.vimeocdn.com/video/470896343_100x75.jpg",
+	"image-480x270" : "http://i.vimeocdn.com/video/470896343_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/470896343_1280.jpg",
+	"title" : "Internet Of Things y Rapsberry Pi",
+	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "Organizada por Google, esta charla introducirá los aspectos básicos de PaaS presentes en App Engine y la nube de Google en general. Se contrastarán las expectativas de los desarrolladores Java cuando se enfrentan con la nube de Google por primera vez, así como algo de trivia respecto a las posibilidades de BigQuery, contestando preguntas como "cuántos proyectos con Angular existen en producción en la actualidad" o "cuáles son los proyectos de Ruby más activos en Github".",
+	"sources" : [ "95509883" ],
+	"thumb" : "http://i.vimeocdn.com/video/475443731_100x75.jpg",
+	"image-480x270" : "http://i.vimeocdn.com/video/475443731_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/475443731_1280.jpg",
+	"title" : "Introducción a App Engine y BigQuery: Big Data y PaaS en la nube de Google",
+	"studio" : "decharlas.com"
+	}	
     ]}]}
