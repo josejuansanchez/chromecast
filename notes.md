@@ -3,3 +3,7 @@
 * http://rtmpdump.mplayerhq.hu/
 * http://www.parleys.com/search/Arduino
 * https://play.google.com/store/apps/details?id=com.parleys.android.jfokus2013
+
+### Decompile apk files
+* http://www.decompileandroid.com
+* https://code.google.com/p/android-apktool/w/list
