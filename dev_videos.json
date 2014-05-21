@@ -1,15 +1,7 @@
 { "categories" : [ { "name" : "Android",
         "videos" : [ 
 	{
-	"subtitle" : "La popularidad de Android ha hecho que cada vez haya más desarrolladores se animen a programar para esta plataforma. Aunque el uso de tutoriales y ejemplos puede ser interesante para un primer contacto, el desarrollo de aplicaciones profesionales requiere ir más allá.<br />
-	<br />
-	Desarrollar a base de tutoriales y ejemplos, unido al propio diseño del framework, hace que la mayoría de código que podemos encontrar no cumpla muchos de los principios básicos de orientación a objetos. Conforme avanza nuestro conocimiento de principios y buenas prácticas, intentar aplicarlas en código ya existente puede ser complicado.<br />
-	<br />
-	En esta charla veremos algunos de estos principios y buenas prácticas, analizando qué características de Android hacen que sean difícil aplicar. También veremos cómo trabajar con código legado y algunos refactors sencillos que nos pueden ayudar a la hora de mejorar nuestro diseño sin afectar al comportamiento de la aplicación.<br />
-	<br />
-	Ponente:<br />
-	<br />
-	Jaime Perera es un desarrollador apasionado por la calidad en el desarrollo de software. Tiene experiencia en metodologías ágiles y XP, que utiliza a diario en su trabajo en idealista.com. Durante los 4 años que lleva en la empresa ha desarrollado su actividad en i+d y desarrollo móvil, tanto en el backend como en Android.",
+	"subtitle" : "La popularidad de Android ha hecho que cada vez haya más desarrolladores se animen a programar para esta plataforma. Aunque el uso de tutoriales y ejemplos puede ser interesante para un primer contacto, el desarrollo de aplicaciones profesionales requiere ir más allá.<br /><br />Desarrollar a base de tutoriales y ejemplos, unido al propio diseño del framework, hace que la mayoría de código que podemos encontrar no cumpla muchos de los principios básicos de orientación a objetos. Conforme avanza nuestro conocimiento de principios y buenas prácticas, intentar aplicarlas en código ya existente puede ser complicado.<br /><br />En esta charla veremos algunos de estos principios y buenas prácticas, analizando qué características de Android hacen que sean difícil aplicar. También veremos cómo trabajar con código legado y algunos refactors sencillos que nos pueden ayudar a la hora de mejorar nuestro diseño sin afectar al comportamiento de la aplicación.<br /><br />Ponente:<br /><br />Jaime Perera es un desarrollador apasionado por la calidad en el desarrollo de software. Tiene experiencia en metodologías ágiles y XP, que utiliza a diario en su trabajo en idealista.com. Durante los 4 años que lleva en la empresa ha desarrollado su actividad en i+d y desarrollo móvil, tanto en el backend como en Android.",
 	"sources" : [ "87450715" ],
 	"thumb" : "http://i.vimeocdn.com/video/465512721_100x75.jpg",
 	"image-480x270" : "http://i.vimeocdn.com/video/465512721_640.jpg",
