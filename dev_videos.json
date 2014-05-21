@@ -19,18 +19,9 @@
 	"studio" : "decharlas.com"
 	},
 	{
-	"subtitle" : "La persistencia es un detalle imprescindible en la mayoría de aplicaciones. En esta charla se dará una visión de distintos mecanismos para persistir los datos en aplicaciones Android. Se hará especial énfasis en el uso de patrones de diseño para implementar la persistencia de manera que se incremente la flexibilidad y mantenibilidad de nuestras aplicaciones. La charla estará acompañada de ejemplos prácticos de código para ilustrar los principios descritos.<br /><br />Ponente:<br /><br />Javier Muñoz es actualmente ingeniero de software en Grupo Gimeno donde participa, entre otros, en los proyectos de desarrollo de aplicaciones móviles con Android para las distintas empresas del grupo. Después de realizar el doctorado en la Universidad Politécnica de Valencia y trabajar en empresas de la zona, llevo a cabo su actividad profesional a través de su propia empresa dedicada al de desarrollo de aplicaciones para móviles hasta que se integró en la plantilla del Grupo Gimeno. Actualmente también es profesor en el Máster sobre Tecnologías Software Avanzadas para Dispositivos Móviles de la Universidad San Jorge de Zaragoza.",
-	"sources" : [ "87451111" ],
-	"thumb" : "http://i.vimeocdn.com/video/465515539_100x75.jpg",
-	"image-480x270" : "http://i.vimeocdn.com/video/465515539_640.jpg",
-	"image-780x1200" : "http://i.vimeocdn.com/video/465515539_1280.jpg",
-	"title" : "Mecanismos de persistencia en Android",
-	"studio" : "decharlas.com"
-	},
-	{
-	"subtitle" : "Primeros pasos con Raspberry Pi: Introducción",
+	"subtitle" : "El ordenador de bolsillo Raspberry Pi ha revolucionado el sector de la informática por varios motivos desde su aparición en el 2012. La comunidad de usuarios se ha volcado en la investigación y desarrollo de nuevos proyectos creando un increible ecosistema de aplicaciones alrededor de él.<br /><br />En esta charla introductoria comentaremos las posibilidades de la Raspberry Pi, detallando características, dónde obtenerlo, componentes necesarios, e instalación y puesta en marcha de algunos de los entornos ya preconfigurados (Media Center, escritorio) más utilizados. Intentaremos demostrar que sin tener grandes conocimientos informáticos podemos aprovechar ampliamente sus características en el ámbito doméstico, y cómo podemos utilizarlo también como plataforma de desarrollo de nuevas ideas.<br /><br />Ponente<br /><br />Enrique Galdú y David Rubert trabajan como administradores de sistemas/programadores en el Servei d'Informàtica de la Universitat Jaume I, apasionados de las nuevas tecnologías y del software libre, vienen utilizando la Raspberry Pi desde su aparición.",
 	"sources" : [ "91503904" ],
-	"thumb" : "",
+	"thumb" : "http://i.vimeocdn.com/video/470896107_100x75.jpg",
 	"image-480x270" : "http://i.vimeocdn.com/video/470896107_640.jpg",
 	"image-780x1200" : "http://i.vimeocdn.com/video/470896107_1280.jpg",
 	"title" : "Primeros pasos con Raspberry Pi: Introducción",
