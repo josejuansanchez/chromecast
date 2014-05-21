@@ -30,7 +30,7 @@ class VimeoVideo {
 		$obj = json_decode($json);
 
 		//$this->sources = $obj->request->files->h264->hd->url;
-		$this->title = $obj->video->title;
+		$this->title = addslashes($obj->video->title);
 		$this->studio = $obj->video->owner->name;
 		$this->image_780_1200 = $obj->video->thumbs->{'1280'};
 		$this->image_480_270 = $obj->video->thumbs->{'640'};
@@ -44,8 +44,8 @@ class VimeoVideo {
 
 		$this->sources = $video_id;
 		$this->id = $obj[0]->id;
-		$this->title = $obj[0]->title;
-		$this->subtitle = str_replace("\r\n", "", $obj[0]->description);
+		$this->title = addslashes($obj[0]->title);
+		$this->subtitle = addslashes(str_replace("\r\n", "", $obj[0]->description));
 		$this->upload_date = $obj[0]->upload_date;
 		$this->thumbnail_small = $obj[0]->thumbnail_small;
 		$this->thumbnail_medium = $obj[0]->thumbnail_medium;
