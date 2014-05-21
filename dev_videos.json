@@ -35,5 +35,14 @@
 	"image-780x1200" : "http://i.vimeocdn.com/video/470896220_1280.jpg",
 	"title" : "Primeros pasos con Raspberry Pi: Integración con XBMC y Couch Potato",
 	"studio" : "decharlas.com"
-	}	
+	},
+	{
+	"subtitle" : "Los Sistemas de Control de Versiones Distribuidos (DVCS de las siglas en inglés) se han convertido en una herramienta imprescindible para mejorar el ciclo de vida de desarrollo de software principalmente por sus capacidades para trabajar como repositorio local así como por su gran habilidad para manejar ramas de desarrollo diferentes y realizar fusiones de código muy eficientemente.<br /><br />Algunos de los beneficios  que pueden obtener los equipos de desarrollo son:<br /><br />Reducir el time to market<br />Releases más estábles.<br />Evitar la propagación de bugs<br />Mantener la línea principal de desarrollo limpia.<br />Aumentar la versatilidad en la forma de trabajar.<br /><br />En esta charla Israel Alcázar explicará las principales características de los DVCS, especialmente Git, así como algunas diferencias con otros tipos de repositorios como CVS o Subversión.",
+	"sources" : [ "60746461" ],
+	"thumb" : "http://i.vimeocdn.com/video/421730204_100x75.jpg",
+	"image-480x270" : "http://i.vimeocdn.com/video/421730204_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/421730204_1280.jpg",
+	"title" : "Repositorios de control de versiones distribuidos: El futuro del código fuente",
+	"studio" : "decharlas.com"
+	}
     ]}]}
