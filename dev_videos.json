@@ -35,5 +35,113 @@
 	"image-780x1200" : "http://i.vimeocdn.com/video/470896220_1280.jpg",
 	"title" : "Primeros pasos con Raspberry Pi: Integración con XBMC y Couch Potato",
 	"studio" : "decharlas.com"
+<<<<<<< HEAD
 	}	
     ]}]}
+=======
+	},
+	{
+	"subtitle" : "Internet esta transformándose constantemente, durante los últimos años hemos sido testigos de una evolución hacia lo social, transaccional y móvil, ¿pero cual es el siguiente reto? la respuesta esta en los objetos, cosas cotidianas que paulatinamente están conectándose a la red.<br /><br />A día de hoy existen mas objetos conectados que personas en el planeta y para el año 2020 existirán mas de 50.000 millones de ellos. ¿Frigoríficos inteligentes que te avisan de la caducidad de alimentos? ¿Cepillos de dientes que detectan caries? ¿Ciudades inteligentes, sostenibles? La aplicación del concepto es ilimitada.<br /><br />Parece ciencia ficción, pero hoy ya existen personas, empresas e instituciones que están aplicando con éxito estos paradigmas, en parte gracias al abaratamiento de sensores y al hardware libre como Arduino o Raspberry Pi. Hoy día cualquier persona interesada puede adentrarse en el apasionante mundo de el "Internet de las Cosas"<br /><br />Ponente<br /><br />Samuel de Ancos es un apasionado del desarrollo y la tecnología, es desarrollador de software desde hace varios años. Empezó en el ámbito del desarrollo de aplicaciones web con tecnologías LAMP y desde hace mas de un par de años se dedica al mundo del "Internet Of things" como analista y desarrollador core en la plataforma Carriots. Es un convencido del software libre y le gusta involucrarme en la comunidades de desarrolladores.",
+	"sources" : [ "91503906" ],
+	"thumb" : "http://i.vimeocdn.com/video/470896343_100x75.jpg",
+	"image-480x270" : "http://i.vimeocdn.com/video/470896343_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/470896343_1280.jpg",
+	"title" : "Internet Of Things y Rapsberry Pi",
+	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "Organizada por Google, esta charla introducirá los aspectos básicos de PaaS presentes en App Engine y la nube de Google en general. Se contrastarán las expectativas de los desarrolladores Java cuando se enfrentan con la nube de Google por primera vez, así como algo de trivia respecto a las posibilidades de BigQuery, contestando preguntas como "cuántos proyectos con Angular existen en producción en la actualidad" o "cuáles son los proyectos de Ruby más activos en Github".",
+	"sources" : [ "95509883" ],
+	"thumb" : "http://i.vimeocdn.com/video/475443731_100x75.jpg",
+	"image-480x270" : "http://i.vimeocdn.com/video/475443731_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/475443731_1280.jpg",
+	"title" : "Introducción a App Engine y BigQuery: Big Data y PaaS en la nube de Google",
+	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "Arduino es una plataforma de hardware libre, basada en una placa con un microcontrolador, con entradas y salidas analógicas y digitales y un entorno de desarrollo. Se trata, en definitiva, de un dispositivo que conecta el mundo analógico con el digital.<br /><br />En esta charla veremos los diferentes tipos de Arduino que existen, hablaremos sobre componentes y accesorios, realizaremos algunas interesantes demostraciones en directo sobre las posibilidades que ofrece, y nos mostrarán algunas aplicaciones reales en las que se está usando.<br /><br />Ponentes<br /><br />Fernando Delgado y Miguel Angel Terol son miembros fundadores de Pymasde, empresa que se dedica a desarrollar aplicaciones para todo tipo de dispositivos, desde pc's, móviles, routers a microcontroladores. Sobre todo desarrollan soluciones que conectan máquinas entre si, y en las que es necesario utilizar pequeños dispositivos hardware que permiten su interconexión, como; consolas para el control de maquinaria, control de uso, sistemas de control de encendido, etc. Aunque suelen desarrollar su propio hardware, para pruebas, prototipos o para desarrollos de una sola unidad, usan Arduino.<br /><br />Ambos son entusiastas del software libre y, entre otras cosas, han desarrollado una aplicación para Android llamada blueterm, para usar el móvil como terminal serie mediante un adaptador serie-bluetooth. Esta aplicación es utilizada por profesionales y aficionados a la electrónica de todo el mundo.",
+	"sources" : [ "85704700" ],
+	"thumb" : "http://i.vimeocdn.com/video/463109893_100x75.jpg",
+	"image-480x270" : "http://i.vimeocdn.com/video/463109893_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/463109893_1280.jpg",
+	"title" : "Arduino en proyectos reales: Introducción",
+	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "En esta charla se va a comentar como se programa un Arduino, se verán componentes que se le pueden conectar y qué son las famosas "shields".<br /><br />Se mostrarán ejemplos de proyectos Open Source en los que se han creado comunidades dentro de Arduino y se mostrarán ejemplos realizados por gente de la comunidad para que los asistentes puedan tomar ideas y desarrollar sus proyectos propios.<br /><br />Ponente<br /><br />Pepe Chorva es miembro activo de la comunidad Arduino desde 2011, y desde entonces realiza pequeños proyectos caseros y desarrollos con Arduino.",
+	"sources" : [ "85704639" ],
+	"thumb" : "http://i.vimeocdn.com/video/463109965_100x75.jpg",
+	"image-480x270" : "http://i.vimeocdn.com/video/463109965_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/463109965_1280.jpg",
+	"title" : "Arduino en proyectos reales: Ejemplos prácticos",
+	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "La creación de aplicaciones nativas para dispositivosiOS es un aspecto muy a tener en cuenta dado el crecimiento exponencial de este tipo de aplicaciones. Actualmente, existen varios estudios de mercado sobre plataformas móviles y penetración en el mercado con resultados muy diversos. Sin embargo, el despliegue de aplicaciones móviles en iOS sigue teniendo un ROI (Return Of Investment) indiscutible, superando ampliamente al resto de plataformas.<br />
+	<br />
+	En esta charla, se presentará inicialmente el desarrollo en iOS, características, herramientas, etc. y posteriormente, se realizará una demostración creando una parte de una app que está actualmente en la App Store.",
+	"sources" : [ "81807321" ],
+	"thumb" : "http://i.vimeocdn.com/video/458002934_100x75.jpg",
+	"image-480x270" : "http://i.vimeocdn.com/video/458002934_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/458002934_1280.jpg",
+	"title" : "Desarrollo móvil con iOS: Desarrollo de una aplicación desde cero",
+	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "La creación de aplicaciones nativas para dispositivosiOS es un aspecto muy a tener en cuenta dado el crecimiento exponencial de este tipo de aplicaciones. Actualmente, existen varios estudios de mercado sobre plataformas móviles y penetración en el mercado con resultados muy diversos. Sin embargo, el despliegue de aplicaciones móviles en iOS sigue teniendo un ROI (Return Of Investment) indiscutible, superando ampliamente al resto de plataformas.<br />
+	<br />
+	En esta charla, se presentará inicialmente el desarrollo en iOS, características, herramientas, etc. y posteriormente, se realizará una demostración creando una parte de una app que está actualmente en la App Store.",
+	"sources" : [ "81807238" ],
+	"thumb" : "http://i.vimeocdn.com/video/458002790_100x75.jpg",
+	"image-480x270" : "http://i.vimeocdn.com/video/458002790_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/458002790_1280.jpg",
+	"title" : "Desarrollo móvil con iOS: Introducción",
+	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "OpenWRT es una distribución GNU/Linux que instalada sobre el router permite mayor control y configuración de tu red doméstica.<br />Se tratará de hacer un taller práctico útil para aquellos que tengan conocimientos de linux como para los que prefieran la interfaz web a la línea de comandos.<br />Partiendo de la elección del router según las propias necesidades, instalación de la imagen de OpenWRT y configuración básica para utilizar con guifi.net.<br />Seguimos con como configurar la conexión automática al vpn de la UJI y como resolver problemas comunes.<br />Se dará algún apunte sobre como configurar recursos compartidos de disco a través del router, configurar diferentes salidas a internet y otras funcionalidades que se pueden desarrollar a medida: ¿mi router puede enviar notificaciones al móvil? ¿puede hablar? ¿me escuchará?",
+	"sources" : [ "79099952" ],
+	"thumb" : "http://i.vimeocdn.com/video/454807978_100x75.jpg",
+	"image-480x270" : "http://i.vimeocdn.com/video/454807978_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/454807978_1280.jpg",
+	"title" : "Una red inalámbrica libre y colaborativa: OpenWRT",
+	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "Guifi.net nos propone la creación de una red libre, abierta y neutral, de ámbito ciudadana, un Internet a pequeña escala donde cualquiera puede conectarse en busca de conocimientos, conexión a Internet, o simplemente diversión. Desde el inicio del movimiento guifi.net en 2007 la red ha ido creciendo hasta tener a día de hoy más de 4.000 nodos operativos en toda la provincia. La charla introductoria que haremos nos introducirá en el estado actual de la iniciativa en nuestra provincia y los detalles prácticos sobre cómo a partir de una simple antena adecuada para la conexión podemos conectar a guifi.net, y utilizando los servicios adecuados, acceder a internet.",
+	"sources" : [ "79094162" ],
+	"thumb" : "http://i.vimeocdn.com/video/454698241_100x75.jpg",
+	"image-480x270" : "http://i.vimeocdn.com/video/454698241_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/454698241_1280.jpg",
+	"title" : "Una red inalámbrica libre y colaborativa: guifi.net",
+	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "El ecosistema de desarrollo en Ruby nos ofrece infinitas y muy variadas posibilidades a la hora de abordar un proyecto web, desde el famoso Ruby on Rails, pasando por microframeworks como Sinatra y hasta una variedad de "event driven" frameworks.<br /> <br />El objetivo de esta charla es hacer un repaso de las características y diferencias más importantes de cada uno para facilitar así la elección del stack a la hora de abordar un nuevo proyecto.",
+	"sources" : [ "77026783" ],
+	"thumb" : "http://i.vimeocdn.com/video/452080607_100x75.jpg",
+	"image-480x270" : "http://i.vimeocdn.com/video/452080607_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/452080607_1280.jpg",
+	"title" : "Desarrollo web con Ruby",
+	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "Durante esta sesión se abordarán distintos enfoques a la hora de realizar pruebas de nuestros servicios REST.<br /><br />Utilizando la implementación de referencia del estándar Java JAX-RS, se presentarán distintas opciones para poder cargar nuestro entorno, ejecutar nuestras pruebas y gestionar su ejecución en entornos de integración contínua.<br /><br />Por otra parte, se presentarán distintas herramientas que nos permitan elaborar una documentación sencilla y mantenible de nuestras APIs públicas.",
+	"sources" : [ "65635292" ],
+	"thumb" : "http://i.vimeocdn.com/video/436735107_100x75.jpg",
+	"image-480x270" : "http://i.vimeocdn.com/video/436735107_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/436735107_1280.jpg",
+	"title" : "Testing y documentación de servicios REST",
+	"studio" : "decharlas.com"
+	},
+	{
+	"subtitle" : "Los Sistemas de Control de Versiones Distribuidos (DVCS de las siglas en inglés) se han convertido en una herramienta imprescindible para mejorar el ciclo de vida de desarrollo de software principalmente por sus capacidades para trabajar como repositorio local así como por su gran habilidad para manejar ramas de desarrollo diferentes y realizar fusiones de código muy eficientemente.<br /><br />Algunos de los beneficios  que pueden obtener los equipos de desarrollo son:<br /><br />Reducir el time to market<br />Releases más estábles.<br />Evitar la propagación de bugs<br />Mantener la línea principal de desarrollo limpia.<br />Aumentar la versatilidad en la forma de trabajar.<br /><br />En esta charla Israel Alcázar explicará las principales características de los DVCS, especialmente Git, así como algunas diferencias con otros tipos de repositorios como CVS o Subversión.",
+	"sources" : [ "60746461" ],
+	"thumb" : "http://i.vimeocdn.com/video/421730204_100x75.jpg",
+	"image-480x270" : "http://i.vimeocdn.com/video/421730204_640.jpg",
+	"image-780x1200" : "http://i.vimeocdn.com/video/421730204_1280.jpg",
+	"title" : "Repositorios de control de versiones distribuidos: El futuro del código fuente",
+	"studio" : "decharlas.com"
+	}
+    ]}]}
+>>>>>>> 68765dfb5ca42172b30fdbdc12aa879c0028a479
