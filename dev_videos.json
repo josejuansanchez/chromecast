@@ -9,10 +9,14 @@
 	"title" : "Android Legacy Code",
 	"studio" : "decharlas.com"
 	},
-	{ 
-	"subtitle" : "Software Design Patterns on Android",
+	{
+	"subtitle" : "La construcción de software extensible, estructurado y desacoplado es uno de los mayores retos que un desarrollador debe afrontar. Día a día nos enfrentamos con problemas cuya base es muy similar y que intentamos modelar para obtener la solución. Aplicando patrones de diseño software podremos construir una solución extensible, reutilizable y bien estructurada a todos esos problemas. A lo largo de la charla se comentarán alguno de los patrones más interesantes en el desarrollo de aplicaciones.<br />
+	<br />
+	Ponente:<br />
+	<br />
+	Pedro Gómez es un joven desarrollador de aplicaciones para móviles con un gran afán por la investigación y las nuevas tecnologías. Durante su vida como desarrollador se ha enfrentado a proyectos de muy diferentes tipos, desde aplicaciones de realidad aumentada hasta clientes de mensajería, servicios de renderizado de modelos en la nube o redes sociales. Actualmente trabaja en Tuenti como Mobile Software Engineer en el equipo de Android, aunque día a día intenta expandir su experiencia a otros campos.",
 	"sources" : [ "87450999" ],
-	"thumb" : "",
+	"thumb" : "http://i.vimeocdn.com/video/465515616_100x75.jpg",
 	"image-480x270" : "http://i.vimeocdn.com/video/465515616_640.jpg",
 	"image-780x1200" : "http://i.vimeocdn.com/video/465515616_1280.jpg",
 	"title" : "Software Design Patterns on Android",
