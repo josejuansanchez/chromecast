@@ -6,6 +6,7 @@
 
 ### Channels on Vimeo
 * http://vimeo.com/channels/oredev/
+* http://vimeo.com/hackbright/videos
 
 ### Decompile apk files
 * http://www.decompileandroid.com
