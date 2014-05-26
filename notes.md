@@ -15,6 +15,10 @@
 
 #### Slides
 * [Chromecast, CheapCast and TV](https://speakerdeck.com/mauimauer/chromecast-cheapcast-and-tv)
+* [ChromeCast and the future of Android TV](http://www.slideshare.net/mauimauer/chrome-cast-and-android-tv-add14)
+* [The chromecast's guide to the galaxy](http://www.slideshare.net/rocboronat/the-chromecasts-guide-to-the-galaxy)
+* [HTML5 VIDEO on Chromecast](http://www.slideshare.net/KatsumiOny/html5-video-on-chromecast)
+* [Building TV apps with Chromecast](http://www.slideshare.net/everywaretech/building-tv-apps-with-chromecast)
 
 #### Chromecast
 * [DraggablePanel](https://github.com/pedrovgs/DraggablePanel). Android Library.
