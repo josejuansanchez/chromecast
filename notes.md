@@ -13,6 +13,9 @@
 * http://www.decompileandroid.com
 * https://code.google.com/p/android-apktool/w/list
 
+#### Slides
+* [Chromecast, CheapCast and TV](https://speakerdeck.com/mauimauer/chromecast-cheapcast-and-tv)
+
 #### Chromecast
 * [DraggablePanel](https://github.com/pedrovgs/DraggablePanel). Android Library.
 * [pydowntv](https://code.google.com/p/pydowntv/). 
