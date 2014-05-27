@@ -72,3 +72,6 @@ Script en Python para descargar los vídeos de las webs de las principales telev
 
 #### Projects for Chromecast on GitHub
 * https://github.com/dconnolly/chromecast-backgrounds
+
+#### Talks about Chromecast
+* [Chromecast and the future of Android TV](http://www.paylas.com/video/chromecast-and-the-future-of-android-tv-sebastian-mauer). Sebastian Mauer. Android Devdays 2014.
