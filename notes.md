@@ -1,17 +1,18 @@
+#### Review this references
 * http://www.parleys.com/play/52a50e1ae4b039ad2298caa7/chapter15/about
 * http://parleys.com/search/android
 * http://rtmpdump.mplayerhq.hu/
 * http://www.parleys.com/search/Arduino
 * https://play.google.com/store/apps/details?id=com.parleys.android.jfokus2013
 * http://www.paylas.com/gdgankara
-
-### Channels on Vimeo
 * http://vimeo.com/channels/oredev/
 * http://vimeo.com/hackbright/videos
 
-### Decompile apk files
+#### Decompile apk files
 * http://www.decompileandroid.com
 * https://code.google.com/p/android-apktool/w/list
+
+----
 
 #### Slides
 * [Chromecast, CheapCast and TV](https://speakerdeck.com/mauimauer/chromecast-cheapcast-and-tv)
