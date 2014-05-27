@@ -68,3 +68,6 @@ Script en Python para descargar los vídeos de las webs de las principales telev
 * Cast Icon Update: http://goo.gl/Id3K73
 * Developer Hosting on Google Drive: http://goo.gl/c31tkH
 * Sender Protips: http://goo.gl/q1cXlT﻿
+
+#### Projects for Chromecast on GitHub
+* https://github.com/dconnolly/chromecast-backgrounds
